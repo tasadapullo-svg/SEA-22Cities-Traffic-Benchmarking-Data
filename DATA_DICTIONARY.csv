@@ -1,0 +1,21 @@
+﻿file,variable,definition,unit,use
+article_master_dataset_22cities.csv,annual_congestion_2025_pct,TomTom 2025 annual congestion percentage; larger values indicate higher relative delay.,%,Annual performance comparison; CPI input.
+article_master_dataset_22cities.csv,annual_tt10_2025_sec,TomTom average travel time for a 10 km trip in 2025.,seconds,Travel time burden comparison; TBI input.
+article_master_dataset_22cities.csv,annual_average_speed_2025_kmh,TomTom annual average speed in 2025.,km/h,Operational speed comparison; SDI interpretation.
+article_master_dataset_22cities.csv,monthly_mean_congestion_2024_2025_pct,Mean monthly congestion over 24 months from Jan 2024 to Dec 2025.,%,Temporal baseline.
+article_master_dataset_22cities.csv,monthly_cv_congestion_2024_2025,Coefficient of variation of monthly congestion over 24 months.,ratio,Temporal Variability Index input.
+article_master_dataset_22cities.csv,change_2025_minus_2024_pp,Mean congestion in 2025 minus mean congestion in 2024.,percentage points,Year-to-year comparison.
+article_master_dataset_22cities.csv,am_tt10_sec,Morning peak 10 km travel time.,seconds,Peak comparison.
+article_master_dataset_22cities.csv,pm_tt10_sec,Evening peak 10 km travel time.,seconds,Peak comparison.
+article_master_dataset_22cities.csv,delta_pm_minus_am_tt10_sec,Evening peak TT10 minus morning peak TT10.,seconds,Evening peak penalty.
+article_master_dataset_22cities.csv,peak_asymmetry_index_pai,PM-AM TT10 difference normalized by the mean of PM and AM TT10.,ratio,Peak Imbalance Index input.
+article_master_dataset_22cities.csv,population,City or harmonized urban population variable used for contextual comparison.,persons,Demand pressure.
+article_master_dataset_22cities.csv,population_density_per_km2,Population per unit area.,persons/km²,Urban demand density.
+article_master_dataset_22cities.csv,motor_vehicles_per_1000_people,Motor vehicles normalized by population.,"vehicles/1,000 persons",Motorization context.
+article_master_dataset_22cities.csv,road_length_km,Road network length compiled for contextual comparison.,km,Road supply context.
+article_master_dataset_22cities.csv,people_per_km_road,Population divided by road length.,persons/km road,Demand-to-road-supply pressure.
+article_master_dataset_22cities.csv,road_length_per_1000_people_km,Road length normalized by population.,"km/1,000 persons",Road supply intensity.
+article_master_dataset_22cities.csv,pt_mode_share_pct,Public transport mode share where comparable evidence was available.,%,Public transport context; not available for all cities.
+article_master_dataset_22cities.csv,rapid_transit_length_km,Length of rapid transit systems such as MRT/LRT/BRT where available.,km,Public transport supply proxy.
+article_master_dataset_22cities.csv,pt_supply_score_0_3,Ordinal public transport supply score coded from 0 to 3 based on modal-system maturity.,score,PT supply proxy for all 22 cities.
+article_master_dataset_22cities.csv,its_signal_score_0_3,"Ordinal Signal/ITS score coded from 0 to 3 based on official evidence of ITS, traffic management centers, or signal coordination.",score,Traffic management context proxy for all 22 cities.

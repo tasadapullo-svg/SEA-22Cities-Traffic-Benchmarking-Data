@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+title: SEA 22 Cities Traffic Performance Dataset
+message: If you use this dataset, please cite the final Zenodo DOI generated for the archived release.
+type: dataset
+authors:
+  - family-names: Sun
+    given-names: Wenjie
+date-released: '2026-05-24'
+keywords:
+  - floating car data
+  - traffic performance
+  - congestion
+  - Southeast Asia
+  - public transport
+  - intelligent transport systems
+abstract: Cleaned datasets, plot-ready tables, figures, scripts, validation records, and source-evidence files for a 22-city Southeast Asian traffic-performance benchmarking study.

@@ -1,0 +1,27 @@
+{
+  "output_dir": "/mnt/data/SEA_22Cities_GitHub_Zenodo_Package_20260524",
+  "file_count": 152,
+  "non_ascii_paths_count": 0,
+  "zip_files_count": 0,
+  "max_path_depth_in_package": 2,
+  "suffix_counts": {
+    ".md": 7,
+    ".csv": 14,
+    ".cff": 1,
+    ".json": 1,
+    ".xlsx": 6,
+    ".png": 108,
+    ".py": 5,
+    ".pdf": 8,
+    ".txt": 2
+  },
+  "top_level_counts": {
+    "[root]": 8,
+    "data_master_workbooks": 6,
+    "data_plot_ready_csv": 10,
+    "figures_png": 7,
+    "scripts_python": 5,
+    "evidence_pt_its_sources": 14,
+    "evidence_tomtom_screenshots": 102
+  }
+}
