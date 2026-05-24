@@ -1,0 +1,23 @@
+﻿country,city,monthly_mean_congestion_2024_2025_pct,monthly_sd_congestion_2024_2025_pct,monthly_cv_congestion_2024_2025,mean_congestion_2024_pct,mean_congestion_2025_pct,change_2025_minus_2024_pp,months_count
+Indonesia,Bandung,63.292,5.213,0.08236,62.833,63.75,0.917,24
+Indonesia,Jakarta,58.917,5.09,0.08639,58.417,59.417,1.0,24
+Indonesia,Medan,55.375,3.424,0.06183,53.917,56.833,2.917,24
+Indonesia,Palembang,53.208,3.176,0.05968,52.583,53.833,1.25,24
+Indonesia,Surabaya,43.542,2.718,0.06243,44.0,43.083,-0.917,24
+Malaysia,George Town,56.792,4.011,0.07062,56.583,57.0,0.417,24
+Malaysia,Ipoh,34.292,1.654,0.04825,34.25,34.333,0.083,24
+Malaysia,Johor Bahru,38.125,2.232,0.05856,39.417,36.833,-2.583,24
+Malaysia,Kajang,30.417,2.43,0.0799,29.333,31.5,2.167,24
+Malaysia,Kota Bharu,47.792,3.257,0.06815,48.0,47.583,-0.417,24
+Malaysia,Kuala Lumpur,42.833,2.334,0.0545,43.333,42.333,-1.0,24
+Malaysia,Seberang Perai,41.542,2.904,0.0699,42.333,40.75,-1.583,24
+Philippines,Davao City,65.625,3.786,0.05769,65.417,65.833,0.417,24
+Philippines,Manila,56.333,4.125,0.07322,56.667,56.0,-0.667,24
+Singapore,Singapore,42.708,2.612,0.06117,43.833,41.583,-2.25,24
+Thailand,Bangkok,67.25,4.627,0.06881,67.917,66.583,-1.333,24
+Thailand,Chiang Mai,49.292,5.56,0.11279,48.083,50.5,2.417,24
+Thailand,Hat Yai,55.25,4.445,0.08046,54.917,55.583,0.667,24
+Thailand,Khon Kaen,44.375,2.374,0.0535,44.667,44.083,-0.583,24
+Thailand,Nakhon Ratchasima,42.083,2.796,0.06644,41.333,42.833,1.5,24
+Vietnam,Ha Noi,41.75,4.12,0.09869,42.833,40.667,-2.167,24
+Vietnam,Ho Chi Minh,45.333,4.631,0.10216,44.083,46.583,2.5,24

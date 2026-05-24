@@ -1,0 +1,23 @@
+country,city,morning_time_10km_sec,morning_level_pct,morning_speed_kmh,evening_time_10km_sec,evening_level_pct,evening_speed_kmh
+Malaysia,George Town,1614,62.1,22.3,1946,88.5,18.5
+Malaysia,Kota Bharu,1452,52.8,24.8,1722,81.2,20.9
+Malaysia,Kuala Lumpur,1250,68.4,28.8,1572,102.1,22.9
+Malaysia,Seberang Perai,1034,73.0,34.8,1108,73.7,32.5
+Malaysia,Johor Bahru,1286,45.1,28.0,1481,64.6,24.3
+Malaysia,Ipoh,1379,38.3,26.1,1558,56.5,23.1
+Malaysia,Kajang,819,47.7,42.4,984,68.9,36.6
+Thailand,Bangkok,1545,88.4,23.3,1885,126.5,19.1
+Thailand,Hat Yai,1565,61.1,23.0,1809,85.0,19.9
+Thailand,Chiang Mai,1481,55.8,24.3,1782,82.4,20.2
+Thailand,Khon Kaen,1475,54.5,24.4,1674,73.4,21.5
+Thailand,Nakhon Ratchasima,1446,53.2,24.9,1651,75.8,21.8
+Indonesia,Medan,1978,58.3,18.2,2500,98.0,14.4
+Indonesia,Bandung,1925,62.0,18.7,2416,99.5,14.9
+Indonesia,Jakarta,1714,66.9,21.0,2323,120.5,15.5
+Indonesia,Palembang,1773,58.4,20.3,2169,91.6,16.6
+Indonesia,Surabaya,1722,47.6,20.9,2057,75.6,17.5
+Philippines,Davao City,2222,77.3,16.2,2813,124.6,12.8
+Philippines,Manila,2093,69.9,17.2,2609,107.0,13.8
+Vietnam,Ha Noi,2353,75.8,15.3,2647,92.2,13.6
+Vietnam,Ho Chi Minh,2118,64.3,17.0,2432,87.1,14.8
+Singapore,Singapore,1379,54.9,26.1,1698,84.1,21.2

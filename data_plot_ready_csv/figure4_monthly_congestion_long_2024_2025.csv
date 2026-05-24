@@ -1,0 +1,529 @@
+country,city,year,month,congestion_pct
+Malaysia,George Town,2024,Jan,57
+Malaysia,George Town,2024,Feb,62
+Malaysia,George Town,2024,Mar,47
+Malaysia,George Town,2024,Apr,50
+Malaysia,George Town,2024,May,57
+Malaysia,George Town,2024,Jun,57
+Malaysia,George Town,2024,Jul,58
+Malaysia,George Town,2024,Aug,61
+Malaysia,George Town,2024,Sep,53
+Malaysia,George Town,2024,Oct,56
+Malaysia,George Town,2024,Nov,59
+Malaysia,George Town,2024,Dec,62
+Malaysia,George Town,2025,Jan,55
+Malaysia,George Town,2025,Feb,61
+Malaysia,George Town,2025,Mar,53
+Malaysia,George Town,2025,Apr,51
+Malaysia,George Town,2025,May,55
+Malaysia,George Town,2025,Jun,59
+Malaysia,George Town,2025,Jul,58
+Malaysia,George Town,2025,Aug,59
+Malaysia,George Town,2025,Sep,57
+Malaysia,George Town,2025,Oct,54
+Malaysia,George Town,2025,Nov,59
+Malaysia,George Town,2025,Dec,63
+Malaysia,Kota Bharu,2024,Jan,51
+Malaysia,Kota Bharu,2024,Feb,49
+Malaysia,Kota Bharu,2024,Mar,51
+Malaysia,Kota Bharu,2024,Apr,51
+Malaysia,Kota Bharu,2024,May,43
+Malaysia,Kota Bharu,2024,Jun,46
+Malaysia,Kota Bharu,2024,Jul,42
+Malaysia,Kota Bharu,2024,Aug,45
+Malaysia,Kota Bharu,2024,Sep,50
+Malaysia,Kota Bharu,2024,Oct,49
+Malaysia,Kota Bharu,2024,Nov,48
+Malaysia,Kota Bharu,2024,Dec,51
+Malaysia,Kota Bharu,2025,Jan,47
+Malaysia,Kota Bharu,2025,Feb,50
+Malaysia,Kota Bharu,2025,Mar,51
+Malaysia,Kota Bharu,2025,Apr,54
+Malaysia,Kota Bharu,2025,May,45
+Malaysia,Kota Bharu,2025,Jun,45
+Malaysia,Kota Bharu,2025,Jul,44
+Malaysia,Kota Bharu,2025,Aug,43
+Malaysia,Kota Bharu,2025,Sep,49
+Malaysia,Kota Bharu,2025,Oct,45
+Malaysia,Kota Bharu,2025,Nov,47
+Malaysia,Kota Bharu,2025,Dec,51
+Malaysia,Kuala Lumpur,2024,Jan,43
+Malaysia,Kuala Lumpur,2024,Feb,45
+Malaysia,Kuala Lumpur,2024,Mar,42
+Malaysia,Kuala Lumpur,2024,Apr,43
+Malaysia,Kuala Lumpur,2024,May,40
+Malaysia,Kuala Lumpur,2024,Jun,39
+Malaysia,Kuala Lumpur,2024,Jul,44
+Malaysia,Kuala Lumpur,2024,Aug,47
+Malaysia,Kuala Lumpur,2024,Sep,42
+Malaysia,Kuala Lumpur,2024,Oct,42
+Malaysia,Kuala Lumpur,2024,Nov,47
+Malaysia,Kuala Lumpur,2024,Dec,46
+Malaysia,Kuala Lumpur,2025,Jan,42
+Malaysia,Kuala Lumpur,2025,Feb,40
+Malaysia,Kuala Lumpur,2025,Mar,44
+Malaysia,Kuala Lumpur,2025,Apr,40
+Malaysia,Kuala Lumpur,2025,May,44
+Malaysia,Kuala Lumpur,2025,Jun,40
+Malaysia,Kuala Lumpur,2025,Jul,41
+Malaysia,Kuala Lumpur,2025,Aug,45
+Malaysia,Kuala Lumpur,2025,Sep,40
+Malaysia,Kuala Lumpur,2025,Oct,44
+Malaysia,Kuala Lumpur,2025,Nov,45
+Malaysia,Kuala Lumpur,2025,Dec,43
+Malaysia,Seberang Perai,2024,Jan,40
+Malaysia,Seberang Perai,2024,Feb,40
+Malaysia,Seberang Perai,2024,Mar,38
+Malaysia,Seberang Perai,2024,Apr,44
+Malaysia,Seberang Perai,2024,May,41
+Malaysia,Seberang Perai,2024,Jun,42
+Malaysia,Seberang Perai,2024,Jul,39
+Malaysia,Seberang Perai,2024,Aug,41
+Malaysia,Seberang Perai,2024,Sep,46
+Malaysia,Seberang Perai,2024,Oct,47
+Malaysia,Seberang Perai,2024,Nov,47
+Malaysia,Seberang Perai,2024,Dec,43
+Malaysia,Seberang Perai,2025,Jan,37
+Malaysia,Seberang Perai,2025,Feb,40
+Malaysia,Seberang Perai,2025,Mar,39
+Malaysia,Seberang Perai,2025,Apr,40
+Malaysia,Seberang Perai,2025,May,45
+Malaysia,Seberang Perai,2025,Jun,42
+Malaysia,Seberang Perai,2025,Jul,36
+Malaysia,Seberang Perai,2025,Aug,42
+Malaysia,Seberang Perai,2025,Sep,42
+Malaysia,Seberang Perai,2025,Oct,40
+Malaysia,Seberang Perai,2025,Nov,43
+Malaysia,Seberang Perai,2025,Dec,43
+Malaysia,Johor Bahru,2024,Jan,38
+Malaysia,Johor Bahru,2024,Feb,36
+Malaysia,Johor Bahru,2024,Mar,40
+Malaysia,Johor Bahru,2024,Apr,38
+Malaysia,Johor Bahru,2024,May,40
+Malaysia,Johor Bahru,2024,Jun,41
+Malaysia,Johor Bahru,2024,Jul,39
+Malaysia,Johor Bahru,2024,Aug,39
+Malaysia,Johor Bahru,2024,Sep,39
+Malaysia,Johor Bahru,2024,Oct,40
+Malaysia,Johor Bahru,2024,Nov,41
+Malaysia,Johor Bahru,2024,Dec,42
+Malaysia,Johor Bahru,2025,Jan,38
+Malaysia,Johor Bahru,2025,Feb,32
+Malaysia,Johor Bahru,2025,Mar,39
+Malaysia,Johor Bahru,2025,Apr,35
+Malaysia,Johor Bahru,2025,May,37
+Malaysia,Johor Bahru,2025,Jun,38
+Malaysia,Johor Bahru,2025,Jul,39
+Malaysia,Johor Bahru,2025,Aug,35
+Malaysia,Johor Bahru,2025,Sep,36
+Malaysia,Johor Bahru,2025,Oct,37
+Malaysia,Johor Bahru,2025,Nov,38
+Malaysia,Johor Bahru,2025,Dec,38
+Malaysia,Ipoh,2024,Jan,34
+Malaysia,Ipoh,2024,Feb,35
+Malaysia,Ipoh,2024,Mar,33
+Malaysia,Ipoh,2024,Apr,32
+Malaysia,Ipoh,2024,May,33
+Malaysia,Ipoh,2024,Jun,32
+Malaysia,Ipoh,2024,Jul,33
+Malaysia,Ipoh,2024,Aug,36
+Malaysia,Ipoh,2024,Sep,33
+Malaysia,Ipoh,2024,Oct,36
+Malaysia,Ipoh,2024,Nov,36
+Malaysia,Ipoh,2024,Dec,38
+Malaysia,Ipoh,2025,Jan,35
+Malaysia,Ipoh,2025,Feb,34
+Malaysia,Ipoh,2025,Mar,32
+Malaysia,Ipoh,2025,Apr,32
+Malaysia,Ipoh,2025,May,35
+Malaysia,Ipoh,2025,Jun,35
+Malaysia,Ipoh,2025,Jul,33
+Malaysia,Ipoh,2025,Aug,35
+Malaysia,Ipoh,2025,Sep,34
+Malaysia,Ipoh,2025,Oct,35
+Malaysia,Ipoh,2025,Nov,35
+Malaysia,Ipoh,2025,Dec,37
+Malaysia,Kajang,2024,Jan,27
+Malaysia,Kajang,2024,Feb,30
+Malaysia,Kajang,2024,Mar,31
+Malaysia,Kajang,2024,Apr,33
+Malaysia,Kajang,2024,May,28
+Malaysia,Kajang,2024,Jun,26
+Malaysia,Kajang,2024,Jul,28
+Malaysia,Kajang,2024,Aug,29
+Malaysia,Kajang,2024,Sep,27
+Malaysia,Kajang,2024,Oct,30
+Malaysia,Kajang,2024,Nov,33
+Malaysia,Kajang,2024,Dec,30
+Malaysia,Kajang,2025,Jan,30
+Malaysia,Kajang,2025,Feb,29
+Malaysia,Kajang,2025,Mar,35
+Malaysia,Kajang,2025,Apr,33
+Malaysia,Kajang,2025,May,34
+Malaysia,Kajang,2025,Jun,28
+Malaysia,Kajang,2025,Jul,30
+Malaysia,Kajang,2025,Aug,31
+Malaysia,Kajang,2025,Sep,32
+Malaysia,Kajang,2025,Oct,31
+Malaysia,Kajang,2025,Nov,34
+Malaysia,Kajang,2025,Dec,31
+Thailand,Bangkok,2024,Jan,66
+Thailand,Bangkok,2024,Feb,72
+Thailand,Bangkok,2024,Mar,65
+Thailand,Bangkok,2024,Apr,59
+Thailand,Bangkok,2024,May,66
+Thailand,Bangkok,2024,Jun,71
+Thailand,Bangkok,2024,Jul,72
+Thailand,Bangkok,2024,Aug,74
+Thailand,Bangkok,2024,Sep,69
+Thailand,Bangkok,2024,Oct,66
+Thailand,Bangkok,2024,Nov,71
+Thailand,Bangkok,2024,Dec,64
+Thailand,Bangkok,2025,Jan,61
+Thailand,Bangkok,2025,Feb,67
+Thailand,Bangkok,2025,Mar,62
+Thailand,Bangkok,2025,Apr,57
+Thailand,Bangkok,2025,May,64
+Thailand,Bangkok,2025,Jun,68
+Thailand,Bangkok,2025,Jul,70
+Thailand,Bangkok,2025,Aug,74
+Thailand,Bangkok,2025,Sep,70
+Thailand,Bangkok,2025,Oct,68
+Thailand,Bangkok,2025,Nov,73
+Thailand,Bangkok,2025,Dec,65
+Thailand,Hat Yai,2024,Jan,55
+Thailand,Hat Yai,2024,Feb,53
+Thailand,Hat Yai,2024,Mar,47
+Thailand,Hat Yai,2024,Apr,54
+Thailand,Hat Yai,2024,May,53
+Thailand,Hat Yai,2024,Jun,55
+Thailand,Hat Yai,2024,Jul,52
+Thailand,Hat Yai,2024,Aug,58
+Thailand,Hat Yai,2024,Sep,55
+Thailand,Hat Yai,2024,Oct,51
+Thailand,Hat Yai,2024,Nov,62
+Thailand,Hat Yai,2024,Dec,64
+Thailand,Hat Yai,2025,Jan,52
+Thailand,Hat Yai,2025,Feb,53
+Thailand,Hat Yai,2025,Mar,48
+Thailand,Hat Yai,2025,Apr,51
+Thailand,Hat Yai,2025,May,55
+Thailand,Hat Yai,2025,Jun,60
+Thailand,Hat Yai,2025,Jul,54
+Thailand,Hat Yai,2025,Aug,60
+Thailand,Hat Yai,2025,Sep,63
+Thailand,Hat Yai,2025,Oct,54
+Thailand,Hat Yai,2025,Nov,58
+Thailand,Hat Yai,2025,Dec,59
+Thailand,Chiang Mai,2024,Jan,52
+Thailand,Chiang Mai,2024,Feb,48
+Thailand,Chiang Mai,2024,Mar,37
+Thailand,Chiang Mai,2024,Apr,42
+Thailand,Chiang Mai,2024,May,44
+Thailand,Chiang Mai,2024,Jun,47
+Thailand,Chiang Mai,2024,Jul,51
+Thailand,Chiang Mai,2024,Aug,51
+Thailand,Chiang Mai,2024,Sep,48
+Thailand,Chiang Mai,2024,Oct,47
+Thailand,Chiang Mai,2024,Nov,57
+Thailand,Chiang Mai,2024,Dec,53
+Thailand,Chiang Mai,2025,Jan,51
+Thailand,Chiang Mai,2025,Feb,50
+Thailand,Chiang Mai,2025,Mar,39
+Thailand,Chiang Mai,2025,Apr,43
+Thailand,Chiang Mai,2025,May,45
+Thailand,Chiang Mai,2025,Jun,51
+Thailand,Chiang Mai,2025,Jul,51
+Thailand,Chiang Mai,2025,Aug,54
+Thailand,Chiang Mai,2025,Sep,51
+Thailand,Chiang Mai,2025,Oct,56
+Thailand,Chiang Mai,2025,Nov,58
+Thailand,Chiang Mai,2025,Dec,57
+Thailand,Khon Kaen,2024,Jan,44
+Thailand,Khon Kaen,2024,Feb,43
+Thailand,Khon Kaen,2024,Mar,41
+Thailand,Khon Kaen,2024,Apr,42
+Thailand,Khon Kaen,2024,May,44
+Thailand,Khon Kaen,2024,Jun,49
+Thailand,Khon Kaen,2024,Jul,46
+Thailand,Khon Kaen,2024,Aug,47
+Thailand,Khon Kaen,2024,Sep,47
+Thailand,Khon Kaen,2024,Oct,43
+Thailand,Khon Kaen,2024,Nov,46
+Thailand,Khon Kaen,2024,Dec,44
+Thailand,Khon Kaen,2025,Jan,43
+Thailand,Khon Kaen,2025,Feb,44
+Thailand,Khon Kaen,2025,Mar,39
+Thailand,Khon Kaen,2025,Apr,42
+Thailand,Khon Kaen,2025,May,43
+Thailand,Khon Kaen,2025,Jun,45
+Thailand,Khon Kaen,2025,Jul,45
+Thailand,Khon Kaen,2025,Aug,46
+Thailand,Khon Kaen,2025,Sep,45
+Thailand,Khon Kaen,2025,Oct,42
+Thailand,Khon Kaen,2025,Nov,48
+Thailand,Khon Kaen,2025,Dec,47
+Thailand,Nakhon Ratchasima,2024,Jan,40
+Thailand,Nakhon Ratchasima,2024,Feb,40
+Thailand,Nakhon Ratchasima,2024,Mar,40
+Thailand,Nakhon Ratchasima,2024,Apr,40
+Thailand,Nakhon Ratchasima,2024,May,41
+Thailand,Nakhon Ratchasima,2024,Jun,42
+Thailand,Nakhon Ratchasima,2024,Jul,41
+Thailand,Nakhon Ratchasima,2024,Aug,44
+Thailand,Nakhon Ratchasima,2024,Sep,42
+Thailand,Nakhon Ratchasima,2024,Oct,39
+Thailand,Nakhon Ratchasima,2024,Nov,45
+Thailand,Nakhon Ratchasima,2024,Dec,42
+Thailand,Nakhon Ratchasima,2025,Jan,45
+Thailand,Nakhon Ratchasima,2025,Feb,46
+Thailand,Nakhon Ratchasima,2025,Mar,46
+Thailand,Nakhon Ratchasima,2025,Apr,48
+Thailand,Nakhon Ratchasima,2025,May,44
+Thailand,Nakhon Ratchasima,2025,Jun,44
+Thailand,Nakhon Ratchasima,2025,Jul,43
+Thailand,Nakhon Ratchasima,2025,Aug,42
+Thailand,Nakhon Ratchasima,2025,Sep,41
+Thailand,Nakhon Ratchasima,2025,Oct,36
+Thailand,Nakhon Ratchasima,2025,Nov,41
+Thailand,Nakhon Ratchasima,2025,Dec,38
+Indonesia,Medan,2024,Jan,55
+Indonesia,Medan,2024,Feb,57
+Indonesia,Medan,2024,Mar,58
+Indonesia,Medan,2024,Apr,50
+Indonesia,Medan,2024,May,50
+Indonesia,Medan,2024,Jun,48
+Indonesia,Medan,2024,Jul,53
+Indonesia,Medan,2024,Aug,53
+Indonesia,Medan,2024,Sep,53
+Indonesia,Medan,2024,Oct,57
+Indonesia,Medan,2024,Nov,57
+Indonesia,Medan,2024,Dec,56
+Indonesia,Medan,2025,Jan,59
+Indonesia,Medan,2025,Feb,55
+Indonesia,Medan,2025,Mar,55
+Indonesia,Medan,2025,Apr,58
+Indonesia,Medan,2025,May,54
+Indonesia,Medan,2025,Jun,51
+Indonesia,Medan,2025,Jul,54
+Indonesia,Medan,2025,Aug,57
+Indonesia,Medan,2025,Sep,59
+Indonesia,Medan,2025,Oct,60
+Indonesia,Medan,2025,Nov,59
+Indonesia,Medan,2025,Dec,61
+Indonesia,Bandung,2024,Jan,55
+Indonesia,Bandung,2024,Feb,60
+Indonesia,Bandung,2024,Mar,60
+Indonesia,Bandung,2024,Apr,59
+Indonesia,Bandung,2024,May,64
+Indonesia,Bandung,2024,Jun,59
+Indonesia,Bandung,2024,Jul,64
+Indonesia,Bandung,2024,Aug,59
+Indonesia,Bandung,2024,Sep,63
+Indonesia,Bandung,2024,Oct,62
+Indonesia,Bandung,2024,Nov,74
+Indonesia,Bandung,2024,Dec,75
+Indonesia,Bandung,2025,Jan,65
+Indonesia,Bandung,2025,Feb,62
+Indonesia,Bandung,2025,Mar,56
+Indonesia,Bandung,2025,Apr,66
+Indonesia,Bandung,2025,May,68
+Indonesia,Bandung,2025,Jun,62
+Indonesia,Bandung,2025,Jul,63
+Indonesia,Bandung,2025,Aug,59
+Indonesia,Bandung,2025,Sep,58
+Indonesia,Bandung,2025,Oct,68
+Indonesia,Bandung,2025,Nov,68
+Indonesia,Bandung,2025,Dec,70
+Indonesia,Jakarta,2024,Jan,58
+Indonesia,Jakarta,2024,Feb,55
+Indonesia,Jakarta,2024,Mar,59
+Indonesia,Jakarta,2024,Apr,48
+Indonesia,Jakarta,2024,May,57
+Indonesia,Jakarta,2024,Jun,59
+Indonesia,Jakarta,2024,Jul,61
+Indonesia,Jakarta,2024,Aug,58
+Indonesia,Jakarta,2024,Sep,59
+Indonesia,Jakarta,2024,Oct,61
+Indonesia,Jakarta,2024,Nov,62
+Indonesia,Jakarta,2024,Dec,64
+Indonesia,Jakarta,2025,Jan,57
+Indonesia,Jakarta,2025,Feb,67
+Indonesia,Jakarta,2025,Mar,53
+Indonesia,Jakarta,2025,Apr,47
+Indonesia,Jakarta,2025,May,59
+Indonesia,Jakarta,2025,Jun,57
+Indonesia,Jakarta,2025,Jul,62
+Indonesia,Jakarta,2025,Aug,57
+Indonesia,Jakarta,2025,Sep,57
+Indonesia,Jakarta,2025,Oct,65
+Indonesia,Jakarta,2025,Nov,64
+Indonesia,Jakarta,2025,Dec,68
+Indonesia,Palembang,2024,Jan,52
+Indonesia,Palembang,2024,Feb,54
+Indonesia,Palembang,2024,Mar,57
+Indonesia,Palembang,2024,Apr,54
+Indonesia,Palembang,2024,May,49
+Indonesia,Palembang,2024,Jun,47
+Indonesia,Palembang,2024,Jul,50
+Indonesia,Palembang,2024,Aug,50
+Indonesia,Palembang,2024,Sep,54
+Indonesia,Palembang,2024,Oct,55
+Indonesia,Palembang,2024,Nov,53
+Indonesia,Palembang,2024,Dec,56
+Indonesia,Palembang,2025,Jan,49
+Indonesia,Palembang,2025,Feb,52
+Indonesia,Palembang,2025,Mar,57
+Indonesia,Palembang,2025,Apr,62
+Indonesia,Palembang,2025,May,53
+Indonesia,Palembang,2025,Jun,51
+Indonesia,Palembang,2025,Jul,52
+Indonesia,Palembang,2025,Aug,54
+Indonesia,Palembang,2025,Sep,54
+Indonesia,Palembang,2025,Oct,55
+Indonesia,Palembang,2025,Nov,55
+Indonesia,Palembang,2025,Dec,52
+Indonesia,Surabaya,2024,Jan,42
+Indonesia,Surabaya,2024,Feb,47
+Indonesia,Surabaya,2024,Mar,44
+Indonesia,Surabaya,2024,Apr,40
+Indonesia,Surabaya,2024,May,44
+Indonesia,Surabaya,2024,Jun,41
+Indonesia,Surabaya,2024,Jul,41
+Indonesia,Surabaya,2024,Aug,39
+Indonesia,Surabaya,2024,Sep,45
+Indonesia,Surabaya,2024,Oct,47
+Indonesia,Surabaya,2024,Nov,49
+Indonesia,Surabaya,2024,Dec,49
+Indonesia,Surabaya,2025,Jan,40
+Indonesia,Surabaya,2025,Feb,42
+Indonesia,Surabaya,2025,Mar,44
+Indonesia,Surabaya,2025,Apr,43
+Indonesia,Surabaya,2025,May,43
+Indonesia,Surabaya,2025,Jun,42
+Indonesia,Surabaya,2025,Jul,44
+Indonesia,Surabaya,2025,Aug,44
+Indonesia,Surabaya,2025,Sep,42
+Indonesia,Surabaya,2025,Oct,44
+Indonesia,Surabaya,2025,Nov,42
+Indonesia,Surabaya,2025,Dec,47
+Philippines,Davao City,2024,Jan,64
+Philippines,Davao City,2024,Feb,69
+Philippines,Davao City,2024,Mar,60
+Philippines,Davao City,2024,Apr,62
+Philippines,Davao City,2024,May,60
+Philippines,Davao City,2024,Jun,60
+Philippines,Davao City,2024,Jul,66
+Philippines,Davao City,2024,Aug,65
+Philippines,Davao City,2024,Sep,68
+Philippines,Davao City,2024,Oct,69
+Philippines,Davao City,2024,Nov,70
+Philippines,Davao City,2024,Dec,72
+Philippines,Davao City,2025,Jan,64
+Philippines,Davao City,2025,Feb,67
+Philippines,Davao City,2025,Mar,65
+Philippines,Davao City,2025,Apr,60
+Philippines,Davao City,2025,May,61
+Philippines,Davao City,2025,Jun,63
+Philippines,Davao City,2025,Jul,67
+Philippines,Davao City,2025,Aug,72
+Philippines,Davao City,2025,Sep,68
+Philippines,Davao City,2025,Oct,66
+Philippines,Davao City,2025,Nov,68
+Philippines,Davao City,2025,Dec,69
+Philippines,Manila,2024,Jan,53
+Philippines,Manila,2024,Feb,56
+Philippines,Manila,2024,Mar,52
+Philippines,Manila,2024,Apr,49
+Philippines,Manila,2024,May,52
+Philippines,Manila,2024,Jun,56
+Philippines,Manila,2024,Jul,61
+Philippines,Manila,2024,Aug,61
+Philippines,Manila,2024,Sep,59
+Philippines,Manila,2024,Oct,62
+Philippines,Manila,2024,Nov,62
+Philippines,Manila,2024,Dec,57
+Philippines,Manila,2025,Jan,52
+Philippines,Manila,2025,Feb,57
+Philippines,Manila,2025,Mar,50
+Philippines,Manila,2025,Apr,51
+Philippines,Manila,2025,May,53
+Philippines,Manila,2025,Jun,56
+Philippines,Manila,2025,Jul,55
+Philippines,Manila,2025,Aug,59
+Philippines,Manila,2025,Sep,59
+Philippines,Manila,2025,Oct,60
+Philippines,Manila,2025,Nov,63
+Philippines,Manila,2025,Dec,57
+Vietnam,Ha Noi,2024,Jan,47
+Vietnam,Ha Noi,2024,Feb,39
+Vietnam,Ha Noi,2024,Mar,40
+Vietnam,Ha Noi,2024,Apr,40
+Vietnam,Ha Noi,2024,May,37
+Vietnam,Ha Noi,2024,Jun,38
+Vietnam,Ha Noi,2024,Jul,39
+Vietnam,Ha Noi,2024,Aug,47
+Vietnam,Ha Noi,2024,Sep,44
+Vietnam,Ha Noi,2024,Oct,47
+Vietnam,Ha Noi,2024,Nov,49
+Vietnam,Ha Noi,2024,Dec,47
+Vietnam,Ha Noi,2025,Jan,46
+Vietnam,Ha Noi,2025,Feb,38
+Vietnam,Ha Noi,2025,Mar,40
+Vietnam,Ha Noi,2025,Apr,37
+Vietnam,Ha Noi,2025,May,36
+Vietnam,Ha Noi,2025,Jun,36
+Vietnam,Ha Noi,2025,Jul,38
+Vietnam,Ha Noi,2025,Aug,41
+Vietnam,Ha Noi,2025,Sep,43
+Vietnam,Ha Noi,2025,Oct,43
+Vietnam,Ha Noi,2025,Nov,44
+Vietnam,Ha Noi,2025,Dec,46
+Vietnam,Ho Chi Minh,2024,Jan,46
+Vietnam,Ho Chi Minh,2024,Feb,34
+Vietnam,Ho Chi Minh,2024,Mar,43
+Vietnam,Ho Chi Minh,2024,Apr,41
+Vietnam,Ho Chi Minh,2024,May,41
+Vietnam,Ho Chi Minh,2024,Jun,40
+Vietnam,Ho Chi Minh,2024,Jul,42
+Vietnam,Ho Chi Minh,2024,Aug,46
+Vietnam,Ho Chi Minh,2024,Sep,47
+Vietnam,Ho Chi Minh,2024,Oct,49
+Vietnam,Ho Chi Minh,2024,Nov,49
+Vietnam,Ho Chi Minh,2024,Dec,51
+Vietnam,Ho Chi Minh,2025,Jan,51
+Vietnam,Ho Chi Minh,2025,Feb,41
+Vietnam,Ho Chi Minh,2025,Mar,45
+Vietnam,Ho Chi Minh,2025,Apr,48
+Vietnam,Ho Chi Minh,2025,May,40
+Vietnam,Ho Chi Minh,2025,Jun,44
+Vietnam,Ho Chi Minh,2025,Jul,42
+Vietnam,Ho Chi Minh,2025,Aug,46
+Vietnam,Ho Chi Minh,2025,Sep,48
+Vietnam,Ho Chi Minh,2025,Oct,50
+Vietnam,Ho Chi Minh,2025,Nov,51
+Vietnam,Ho Chi Minh,2025,Dec,53
+Singapore,Singapore,2024,Jan,46
+Singapore,Singapore,2024,Feb,42
+Singapore,Singapore,2024,Mar,42
+Singapore,Singapore,2024,Apr,43
+Singapore,Singapore,2024,May,43
+Singapore,Singapore,2024,Jun,40
+Singapore,Singapore,2024,Jul,47
+Singapore,Singapore,2024,Aug,46
+Singapore,Singapore,2024,Sep,45
+Singapore,Singapore,2024,Oct,47
+Singapore,Singapore,2024,Nov,45
+Singapore,Singapore,2024,Dec,40
+Singapore,Singapore,2025,Jan,44
+Singapore,Singapore,2025,Feb,40
+Singapore,Singapore,2025,Mar,40
+Singapore,Singapore,2025,Apr,41
+Singapore,Singapore,2025,May,41
+Singapore,Singapore,2025,Jun,39
+Singapore,Singapore,2025,Jul,43
+Singapore,Singapore,2025,Aug,44
+Singapore,Singapore,2025,Sep,44
+Singapore,Singapore,2025,Oct,43
+Singapore,Singapore,2025,Nov,43
+Singapore,Singapore,2025,Dec,37

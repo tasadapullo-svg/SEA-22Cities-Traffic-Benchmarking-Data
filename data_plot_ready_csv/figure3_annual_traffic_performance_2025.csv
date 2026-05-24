@@ -1,0 +1,23 @@
+country,city,average_congestion_pct,average_travel_time_10km_sec,average_speed_kmh
+Malaysia,George Town,56.7,1600,22.3
+Malaysia,Kota Bharu,47.9,1395,24.8
+Malaysia,Kuala Lumpur,43.4,1075,28.8
+Malaysia,Seberang Perai,42.4,876,34.8
+Malaysia,Johor Bahru,39.5,1241,28.0
+Malaysia,Ipoh,34.4,1333,26.1
+Malaysia,Kajang,29.4,729,42.4
+Thailand,Bangkok,67.9,1379,23.3
+Thailand,Hat Yai,55.2,1513,23.0
+Thailand,Chiang Mai,48.7,1452,24.3
+Thailand,Khon Kaen,44.8,1385,24.4
+Thailand,Nakhon Ratchasima,41.4,1309,24.9
+Indonesia,Medan,54.2,1915,18.2
+Indonesia,Bandung,64.1,1946,18.7
+Indonesia,Jakarta,59.8,1579,21.0
+Indonesia,Palembang,52.7,1698,20.3
+Indonesia,Surabaya,43.7,1674,20.9
+Philippines,Davao City,66.2,2057,16.2
+Philippines,Manila,57.0,1905,17.2
+Vietnam,Ha Noi,43.2,1513,15.3
+Vietnam,Ho Chi Minh,46.9,1915,17.0
+Singapore,Singapore,43.9,1281,26.1
